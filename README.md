@@ -13,12 +13,12 @@ Experienced backend systems architect specializing in clean architecture, univer
 ## Notable Projects
 
 ### 🏗️ Architecture & Design
-- [core](https://github.com/jessehogan/core) - Enterprise-grade backend framework implementing universal data modeling patterns
-- [phpbo](https://github.com/jessehogan/phpbo) - PHP ORM based on clean architecture principles
-- [transient-entities](https://github.com/jessehogan/transient-entities) - TypeScript library for robust collection management
+- [core](https://github.com/jhogan/core) - Enterprise-grade backend framework implementing universal data modeling patterns
+- [phpbo](https://github.com/jhogan/phpbo) - PHP ORM based on clean architecture principles
+- [transient-entities](https://github.com/jhogan/transient-entities) - TypeScript library for robust collection management
 
 ### 📊 Data & Analysis
-- [analysis](https://github.com/jessehogan/analysis) - Python framework for financial analysis and modeling
+- [analysis](https://github.com/jhogan/analysis) - Python framework for financial analysis and modeling
 
 ## Technical Background
 ```python
