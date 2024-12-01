@@ -21,15 +21,21 @@ Experienced backend systems architect specializing in clean architecture, univer
 - [analysis](https://github.com/jhogan/analysis) - Python framework for financial analysis and modeling
 
 ## Technical Background
-```python
-domains = {
-    'architecture': ['clean architecture', 'domain-driven design', 'SOLID principles'],
-    'ai_integration': ['RAG systems', 'LLM integration', 'vector databases'],
-    'backend': ['Python', 'PHP/Laravel', 'TypeScript'],
-    'databases': ['MySQL', 'vector stores', 'ORM design'],
-    'patterns': ['universal data modeling', 'object-oriented design', 'business objects']
-}
-```
+**Architecture & Design**
+- Clean Architecture & SOLID Principles
+- Domain-Driven Design
+- Universal Data Modeling (Silverston patterns)
+- Object-Oriented Design & Business Objects
+
+**AI Integration**
+- RAG Systems Architecture
+- LLM Integration Patterns
+- Vector Database Design
+
+**Core Technologies**
+- Python & PHP/Laravel Backend Development
+- MySQL Database Design
+- ORM Implementation
 
 ## Current Focus
 Building maintainable, scalable backend systems with integrated AI capabilities, focusing on clean architecture and proper domain modeling. Particularly interested in implementing RAG systems and LLM integration patterns while maintaining clean architectural boundaries.
